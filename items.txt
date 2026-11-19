@@ -1,0 +1,10 @@
+Book|1|Clean Code|Robert C. Martin|1
+Magazine|2|Wired|Issue 12|2
+Reference|3|C++ Primer|Stanley B. Lippman|0
+Book|4|Design Patterns|Erich Gamma, Richard Helm|5
+Book|5|The Pragmatic Programmer|Andrew Hunt, David Thomas|5
+Magazine|6|National Geographic|Issue 45|1
+Reference|7|The C++ Programming Language|Bjarne Stroustrup|0
+Magazine|9|Communications of the ACM|Issue 64|0
+Reference|10|Modern Operating Systems|Andrew S. Tanenbaum|0
+Book|11|asdb|carley|5

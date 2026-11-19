@@ -1,0 +1,22 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Modern Library Management System website built with React, Vite, Tailwind CSS, and Express backend",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev:server": "node server/index.js",
+    "dev:client": "npm.cmd run dev --prefix client",
+    "build": "npm.cmd run build --prefix client",
+    "install:all": "npm.cmd install --prefix server && npm.cmd install --prefix client"
+  },
+  "keywords": [
+    "library-management",
+    "react",
+    "vite",
+    "tailwind",
+    "oop",
+    "cpp"
+  ],
+  "author": "",
+  "license": "ISC"
+}
